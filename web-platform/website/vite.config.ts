@@ -7,7 +7,7 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
   
-  base: '/smart-room-frontend/',
+  base: '/smart-room-finder-frontend/',
   server: {
     host: "::",
     port: 8080,
