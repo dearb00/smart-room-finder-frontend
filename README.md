@@ -16,6 +16,9 @@ This application provides the user-facing web interface and communicates with th
 * Interaction with backend REST APIs
 * Website pg and Admin dashboard
 * Responsive user interface
+## ✨ Live Demo
+
+https://dearb00.github.io/smart-room-finder-frontend/
 
 ## 🔗 Related Repositories
 
